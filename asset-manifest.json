@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/hotels_ui/static/css/main.a617e044.chunk.css",
-    "main.js": "/hotels_ui/static/js/main.659973d0.chunk.js",
-    "main.js.map": "/hotels_ui/static/js/main.659973d0.chunk.js.map",
-    "runtime-main.js": "/hotels_ui/static/js/runtime-main.5a7d31db.js",
-    "runtime-main.js.map": "/hotels_ui/static/js/runtime-main.5a7d31db.js.map",
-    "static/js/2.b509adf8.chunk.js": "/hotels_ui/static/js/2.b509adf8.chunk.js",
-    "static/js/2.b509adf8.chunk.js.map": "/hotels_ui/static/js/2.b509adf8.chunk.js.map",
-    "index.html": "/hotels_ui/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/hotels_ui/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.b509adf8.chunk.js.LICENSE.txt": "/hotels_ui/static/js/2.b509adf8.chunk.js.LICENSE.txt"
+    "main.css": "/hotels-ui.github.io/static/css/main.a617e044.chunk.css",
+    "main.js": "/hotels-ui.github.io/static/js/main.659973d0.chunk.js",
+    "main.js.map": "/hotels-ui.github.io/static/js/main.659973d0.chunk.js.map",
+    "runtime-main.js": "/hotels-ui.github.io/static/js/runtime-main.82c6dd4e.js",
+    "runtime-main.js.map": "/hotels-ui.github.io/static/js/runtime-main.82c6dd4e.js.map",
+    "static/js/2.b509adf8.chunk.js": "/hotels-ui.github.io/static/js/2.b509adf8.chunk.js",
+    "static/js/2.b509adf8.chunk.js.map": "/hotels-ui.github.io/static/js/2.b509adf8.chunk.js.map",
+    "index.html": "/hotels-ui.github.io/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/hotels-ui.github.io/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.b509adf8.chunk.js.LICENSE.txt": "/hotels-ui.github.io/static/js/2.b509adf8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5a7d31db.js",
+    "static/js/runtime-main.82c6dd4e.js",
     "static/js/2.b509adf8.chunk.js",
     "static/css/main.a617e044.chunk.css",
     "static/js/main.659973d0.chunk.js"
